@@ -1,0 +1,1 @@
+Exercícios do livro "Algoritmos - Lógica para desenvolvimento de programação de computadores (Manzano, Oliveira)".
